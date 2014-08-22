@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails basic-auth: development" uuid="e49d7be6-b358-4ea1-bd7f-e58e727d24eb">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails basic-auth: test" uuid="a0909499-2b54-49cd-9b82-4909fe3db460">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails basic-auth: production" uuid="83637492-77f5-423d-a337-559aa23d3aab">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
